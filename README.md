@@ -1,6 +1,6 @@
-## Instalar:
+# Instalar:
 
-*npm install --save react-router-dom
+## npm install --save react-router-dom
 
-*npm install react-bootstrap bootstrap
+## npm install react-bootstrap bootstrap
 
