@@ -1,0 +1,88 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.home{
+  margin: 5%;
+  font-size: 200%;
+}
+
+.link{
+  padding-left: 35%;
+  font-weight: bold;
+}
+
+.titulo {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-style: initial;
+  text-align: center;
+}
+
+
+.images {
+  height: 20%;
+  width: 20%;
+  margin-left: 5%;
+  margin-right: 10%;
+}
+
+.imageDetails {
+  height: 250px;
+  width: 250px;
+}
+
+.descrip {
+  margin-top: 5%;
+  text-align: left !important;
+}
+
+.cantVendidos {
+  text-align: left !important;
+}
+
+.colDetails {
+  margin-left: 20px;
+}
+
+.envioGratis {
+  color: green;
+}
+
+.envio {
+  color: darkorange;
+}
+
+.volver{
+  text-align: left;
+  font-size: 150%;
+}
+
+.boton{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.cards {
+  margin: 0 auto;
+}
+
+.cardDetails {
+  margin: 20px auto;
+}
+
+.maps{
+  width: 100%;
+  height: 80vh;
+
+}
